@@ -55,6 +55,8 @@ _atuin_search() {
     then
         LBUFFER=${LBUFFER#__atuin_accept__:}
         zle accept-line
+    else
+        zle infer-next-history && zle up-history
     fi
 }
 
