@@ -14,7 +14,7 @@ repository = "https://github.com/atuinsh/atuin"
 readme = "README.md"
 
 [workspace.dependencies]
-async-trait = "0.1.58"
+async-trait = "0.1.83"
 base64 = "0.22"
 log = "0.4"
 time = { version = "0.3.36", features = [
