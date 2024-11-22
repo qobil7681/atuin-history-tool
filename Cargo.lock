@@ -3052,9 +3052,9 @@ dependencies = [
 
 [[package]]
 name = "protox"
-version = "0.7.0"
+version = "0.7.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "70cdc4ca5487c1fddc30fa2bebba28c0f250f80c944190652ccaaeb157349175"
+checksum = "873f359bdecdfe6e353752f97cb9ee69368df55b16363ed2216da85e03232a58"
 dependencies = [
  "bytes",
  "miette",
